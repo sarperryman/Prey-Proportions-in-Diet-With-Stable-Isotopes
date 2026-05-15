@@ -1,4 +1,7 @@
 # Prey-Proportions-in-Diet-With-Stable-Isotopes
+
+The two needed datasets are "CARMMHA_Mixing.Model_2020.05.04" and "CARMMHA_Stable.isotope.ratios_2021.01.20" and the XGBoost code is "XGBoost_DietProps"
+
 **Motivation**
 
 In this project, the main question is: what proportion does each prey group contribute to a predator’s diet? More specifically, this project examines the diet of bottlenose dolphins and asks whether stable isotope data can be used to estimate the contribution of prey groups such as fish and cephalopods. Understanding diet composition can help researchers better understand dolphin trophic ecology, identify where dolphins sit in the food web, evaluate how environmental changes may affect them, and assess whether dolphins may serve as indicators of ecosystem change.
