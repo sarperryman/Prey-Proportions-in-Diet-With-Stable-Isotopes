@@ -1,6 +1,6 @@
 # Prey-Proportions-in-Diet-With-Stable-Isotopes
 
-The two needed datasets are "CARMMHA_Mixing.Model_2020.05.04" and "CARMMHA_Stable.isotope.ratios_2021.01.20" and the XGBoost code is "Code"
+The two needed datasets are "CARMMHA_Mixing.Model_2020.05.04" and "CARMMHA_Stable.isotope.ratios_2021.01.20" and the XGBoost code is "XGBoostCode"
 
 **Motivation**
 
